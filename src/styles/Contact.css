@@ -146,6 +146,12 @@
     color: #001d3d;
 }
 
+/* Modal Window */
+.swal-button {
+    background-color: var(--color6);
+    border: none;
+}
+
 /* RESPONSIVE - MEDIA QUERY */
 
 @media screen and (max-width: 1835px){

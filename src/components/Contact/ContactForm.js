@@ -1,21 +1,27 @@
 import React from 'react'
 import emailjs from 'emailjs-com';
+import swal from 'sweetalert';
 
 export const ContactForm = () => {
 
-        // Send Email:
-        function sendEmail(e) {
-            e.preventDefault();
-    
-            emailjs.sendForm('gmail', 'portfolio_emailservice', e.target, 'user_IwUaX7a2WoY2b2r204CXT')
-                .then((result) => {
-                    console.log(result.text);
-                    alert('Message Sent Successfully');
-                }, (error) => {
-                    console.log(error.text);
+    // Send Email:
+    function sendEmail(e) {
+        e.preventDefault();
+
+        emailjs.sendForm('gmail', 'portfolio_emailservice', e.target, 'user_IwUaX7a2WoY2b2r204CXT')
+            .then((result) => {
+                console.log(result.text);
+                swal({
+                    title: "Message sent successfully!",
+                    text: "Thanks for your visit!",
+                    icon: "success",
+                    button: "Close",
                 });
-            e.target.reset()
-        }
+            }, (error) => {
+                console.log(error.text);
+            });
+        e.target.reset()
+    }
 
     return (
         <>

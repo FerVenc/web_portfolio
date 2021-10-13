@@ -32,6 +32,7 @@
     z-index: 1;
     transition: ease-out;
     transition-duration: 800ms;
+    animation: appearing 1s;
 }
 
 .header_text{
@@ -46,6 +47,7 @@
     z-index: 2;
     transition: ease-out;
     transition-duration: 600ms;
+    animation: appearing 3s;
 }
 
 .planet2{
@@ -56,6 +58,7 @@
     z-index: 1;
     transition: ease-out;
     transition-duration: 700ms;
+    animation: appearing 1s;
 }
 
 .mountain{
@@ -66,6 +69,7 @@
     z-index: 3;
     transition: ease-out;
     transition-duration: 500ms;
+    animation: appearing 2s;
 }
 
 .clouds{
@@ -74,6 +78,16 @@
     z-index: 4;
     transition: ease-out;
     transition-duration: 1000ms;
+    animation: appearing 500ms;
+}
+
+@keyframes appearing {
+    0%{
+        opacity: 0;
+    }
+    100%{
+        opacity: 1;
+    }
 }
 
 /* RESPONSIVE - MEDIA QUERY */

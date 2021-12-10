@@ -25,7 +25,7 @@ export const AboutInfo = () => {
                 to keep improving my work day by day.
             </p>
             <a
-                href='https://drive.google.com/uc?export=download&id=1O3gZInn5kzDH7ft2sJ2cJqGl31N4W14u'
+                href='https://drive.google.com/uc?export=download&id=1Wfl8lOGNO5lfjR3H45_eyRY4EMCtrbvb'
                 className='about_download_link' >
                 Download CV
             </a>

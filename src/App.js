@@ -18,19 +18,15 @@ import { Footer } from './components/Footer/Footer';
 function App() {
 
   return (
-
-    <div className='wrapper'>
-
-      <MenuScreen/>
-      <Home/>
-      <About/>
-      <Skills/>
-      <HireMe/>
-      <ContactScreen/>
-      <Footer/>
-
-    </div>
-    
+      <div className='wrapper'>
+        <MenuScreen />
+        <Home />
+        <About />
+        <Skills />
+        <HireMe />
+        <ContactScreen />
+        <Footer />
+      </div>
   );
 }
 

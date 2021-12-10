@@ -1,17 +1,25 @@
 {
   "files": {
-    "main.css": "/static/css/main.fdc832f9.chunk.css",
-    "main.js": "/static/js/main.24993072.chunk.js",
-    "main.js.map": "/static/js/main.24993072.chunk.js.map",
+    "main.css": "/static/css/main.806baea2.chunk.css",
+    "main.js": "/static/js/main.922370b5.chunk.js",
+    "main.js.map": "/static/js/main.922370b5.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.db2c401e.js",
     "runtime-main.js.map": "/static/js/runtime-main.db2c401e.js.map",
     "static/css/2.7fc9bc2b.chunk.css": "/static/css/2.7fc9bc2b.chunk.css",
-    "static/js/2.5182f459.chunk.js": "/static/js/2.5182f459.chunk.js",
-    "static/js/2.5182f459.chunk.js.map": "/static/js/2.5182f459.chunk.js.map",
+    "static/js/2.da353625.chunk.js": "/static/js/2.da353625.chunk.js",
+    "static/js/2.da353625.chunk.js.map": "/static/js/2.da353625.chunk.js.map",
     "index.html": "/index.html",
     "static/css/2.7fc9bc2b.chunk.css.map": "/static/css/2.7fc9bc2b.chunk.css.map",
-    "static/css/main.fdc832f9.chunk.css.map": "/static/css/main.fdc832f9.chunk.css.map",
-    "static/js/2.5182f459.chunk.js.LICENSE.txt": "/static/js/2.5182f459.chunk.js.LICENSE.txt",
+    "static/css/main.806baea2.chunk.css.map": "/static/css/main.806baea2.chunk.css.map",
+    "static/js/2.da353625.chunk.js.LICENSE.txt": "/static/js/2.da353625.chunk.js.LICENSE.txt",
+    "static/media/Mountain.1a08ac82.png": "/static/media/Mountain.1a08ac82.png",
+    "static/media/Mountain.6564df42.webp": "/static/media/Mountain.6564df42.webp",
+    "static/media/Planet1.402bdb63.png": "/static/media/Planet1.402bdb63.png",
+    "static/media/Planet1.57962cde.webp": "/static/media/Planet1.57962cde.webp",
+    "static/media/Planet2.91f54dbc.webp": "/static/media/Planet2.91f54dbc.webp",
+    "static/media/Planet2.f5319efe.png": "/static/media/Planet2.f5319efe.png",
+    "static/media/Sky.03d5e266.webp": "/static/media/Sky.03d5e266.webp",
+    "static/media/Sky.8a6e028d.png": "/static/media/Sky.8a6e028d.png",
     "static/media/About.css": "/static/media/fvc.a12192e6.png",
     "static/media/HireMe.css": "/static/media/geometric.efb6920f.jpg",
     "static/media/Skills.css": "/static/media/project.de813a8e.png"
@@ -19,8 +27,8 @@
   "entrypoints": [
     "static/js/runtime-main.db2c401e.js",
     "static/css/2.7fc9bc2b.chunk.css",
-    "static/js/2.5182f459.chunk.js",
-    "static/css/main.fdc832f9.chunk.css",
-    "static/js/main.24993072.chunk.js"
+    "static/js/2.da353625.chunk.js",
+    "static/css/main.806baea2.chunk.css",
+    "static/js/main.922370b5.chunk.js"
   ]
 }
